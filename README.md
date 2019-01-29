@@ -1,3 +1,3 @@
 # Bash Programming
-Bash Programming Book
+Bash Programming Book  
 by Nicholas S.
